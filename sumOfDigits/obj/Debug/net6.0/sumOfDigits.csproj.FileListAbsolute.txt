@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\bin\Debug\net6.0\sumOfDigits.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\bin\Debug\net6.0\sumOfDigits.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\bin\Debug\net6.0\sumOfDigits.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\bin\Debug\net6.0\sumOfDigits.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\bin\Debug\net6.0\sumOfDigits.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\refint\sumOfDigits.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\sumOfDigits.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\sumOfDigits\obj\Debug\net6.0\ref\sumOfDigits.dll

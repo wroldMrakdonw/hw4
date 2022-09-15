@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\bin\Debug\net6.0\Stepen.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\bin\Debug\net6.0\Stepen.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\bin\Debug\net6.0\Stepen.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\bin\Debug\net6.0\Stepen.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\bin\Debug\net6.0\Stepen.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\refint\Stepen.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\Stepen.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_4\hw\Stepen\obj\Debug\net6.0\ref\Stepen.dll
